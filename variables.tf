@@ -55,5 +55,4 @@ variable "sql_admin_login" {
 variable "sql_admin_password" {
     type        = string
     description = "SQL Database name"
-    default     = "D1234@dfg"
 }
